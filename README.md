@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 
+
+## I’m Rita London, a full-stack developer based in Nigeria. I build web applications with React, Next.js, and TypeScript, and mobile interfaces with React Native. My experience includes fintech products and learning platforms, turning designs into responsive interfaces, building reusable components, and integrating APIs.
+
+
+## I’m open to remote frontend and full-stack opportunities.
 
 <!--
 **augustineritalondon/augustineritalondon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
