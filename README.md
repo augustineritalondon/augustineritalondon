@@ -61,8 +61,8 @@ My Contribution:
 
 I'm always open to connecting with developers, collaborating on interesting projects, and exploring new opportunities.
 
-Portfolio: [Your Portfolio URL](https://rita.vercel.app/)
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rita-augustine-840361147/)
+Portfolio: [Portfolio URL](https://rita.vercel.app/)
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rita-augustine-840361147/)
 Email: augustineritalondon@gmail.com
 
 Currently open to remote frontend & full-stack developer opportunities.
